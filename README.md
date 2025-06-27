@@ -46,3 +46,7 @@ This application is a user-friendly Cybersecurity Awareness Chatbot, built as th
 It lets you chat with a helpful bot about online safety, manage your own security-related tasks and reminders, test your cybersecurity knowledge with a fun multiple-choice quiz, and keep track of everything in an activity log—all in one place. 
 Just open the project in Visual Studio, run it, and explore each tab: you can ask the bot questions about things like passwords or scams, add or complete tasks (with pop-up reminders), answer quiz questions, and see a full history of your actions.
  It’s designed to make learning about cybersecurity interactive, practical, and simple to use.
+
+
+ Github: https://github.com/PerumalKeeran/st10367702_Poe_Prog6211.git
+ video link: https://screenrec.com/share/m329o5LEtG
